@@ -1,0 +1,6 @@
+id=bootloop_simulator
+name=bootloop_simulator
+version=v1
+versionCode=100
+author=xx
+description=if you are seeing this, you either beat the module or have not rebooted yet
